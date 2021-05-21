@@ -17,6 +17,7 @@ function App() {
         </div>
         <div className="card">
           <p>2 min ago</p>
+          <p>2 min ago</p>
           <h2>Working 100 hours a week</h2>
           <p>
             I am killing myself working all the timeThere was a point where I
