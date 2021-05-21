@@ -13,6 +13,7 @@ function App() {
           <p>DIARY |</p>
           <p>POLLS |</p>
           <p>INSIGHTS |</p>
+          <p>INSIGHTS |</p>
         </div>
         <div className="card">
           <p>2 min ago</p>
