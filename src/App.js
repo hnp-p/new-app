@@ -36,9 +36,7 @@ function App() {
             I am killing myself working all the timeThere was a point where I
             was not eating, showering or doing anything else other than....
           </p>
-          <p>
-            was not eating, showering or doing anything else other than.....
-          </p>
+          <p>was not eating, showering or doing anything else other than....</p>
         </div>
       </header>
     </div>
