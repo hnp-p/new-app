@@ -1,22 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import logo_app from "./logo_app.jpg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header>
+        <img className="text-3xl" src={logo_app} alt="logo" />
+        <p>IVORY</p>
+        <div className="menu">
+          <p>FEED |</p>
+          <p>INITIATIVES |</p>
+          <p>DIARY |</p>
+          <p>POLLS |</p>
+          <p>INSIGHTS |</p>
+        </div>
+        <div className="card">
+          <p>2 min ago</p>
+          <h2>Working 100 hours a week</h2>
+          <p>
+            I am killing myself working all the timeThere was a point where I
+            was not eating, showering or doing anything else other than....
+          </p>
+        </div>
       </header>
     </div>
   );
