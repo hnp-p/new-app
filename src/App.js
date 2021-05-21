@@ -7,6 +7,7 @@ function App() {
       <header>
         <img className="text-3xl" src={logo_app} alt="logo" />
         <p>IVORY</p>
+        <p>IVORY</p>
         <div className="menu">
           <p>FEED |</p>
           <p>INITIATIVES |</p>
@@ -17,7 +18,9 @@ function App() {
         </div>
         <div className="card">
           <p>2 min ago</p>
-          <p>2 min ago</p>
+          <p>3 min ago</p>
+          <p>4 min ago</p>
+          <p>5 min ago</p>
           <h2>Working 100 hours a week</h2>
           <p>
             I am killing myself working all the timeThere was a point where I
