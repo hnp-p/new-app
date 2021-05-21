@@ -25,8 +25,8 @@ function App() {
           <p>5 min ago</p>
           <h2>Working 100 hours a week</h2>
           <p>
-            I am killing myself working all the timeThere was a point where I
-            was not eating, showering or doing anything else other than....
+            There was a point where I was not eating, showering or doing
+            anything else other than....
           </p>
           <p>
             I am killing myself working all the timeThere was a point where I
