@@ -9,6 +9,7 @@ function App() {
         <p>IVORY</p>
         <p>IVORY</p>
         <div className="menu">
+          <h2>Diary</h2>
           <p>FEED |</p>
           <p>INITIATIVES |</p>
           <p>DIARY |</p>
