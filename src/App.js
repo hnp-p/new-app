@@ -18,6 +18,7 @@ function App() {
           <p>INSIGHTS |</p>
         </div>
         <div className="card">
+          <h2>1 min ago</h2>
           <p>2 min ago</p>
           <p>3 min ago</p>
           <p>4 min ago</p>
